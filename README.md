@@ -1,4 +1,4 @@
-Hi 👋, I'm Scott from Boston 🍀. I love coding 💻, sports 🏒, 🏀, 🎾, and podcasts 🎧. I want to help with open-source projects for market APIs ⚙️, data analysis, and productivity tools ⚒️.
+Hi 👋, I'm Scott from Boston 🍀. I have a passion for coding 💻, sports such as hockey 🏒, golf ⛳, and basketball 🏀, as well as traveling ✈️. I am eager to assist with open-source projects related to APIs, data analysis, and productivity tools.
 
 <!---
 Scarvy/Scarvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
